@@ -13,7 +13,7 @@
 <body>
     <div class="container">
         <p>Sehr geehrte/r <strong>%CustomerName%</strong>,</p>
-        <p>Ihr Ticket wurde geschlossen. Falls Sie weitere Fragen haben, können Sie innerhalb der nächsten 7 Tage auf diese E-Mail antworten, um es erneut zu öffnen.</p>
+        <p>Ihr Ticket wurde geschlossen. Falls Sie weitere Fragen haben, können Sie gerne ein neues Ticket eröffnen.</p>
         <p style="margin:0;padding-top:10px;">Mit freundlichen Grüßen,</p>
         <p style="margin:0;"><strong>%Department%</strong><br>aelios.space Team</p>
     </div>
